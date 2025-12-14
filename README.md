@@ -9,3 +9,6 @@ This repository contains real-world automation systems built using:
 
 Each automation is designed as an end-to-end business system,
 not a demo or tutorial workflow.
+
+These workflows focus on reducing manual operations, improving SLA adherence,
+and enabling scalable revenue and operations systems.
